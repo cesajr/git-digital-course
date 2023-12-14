@@ -6,3 +6,6 @@
 * Comando git add
 * Comando git status
 * Comando git log
+* Comando git restore
+* Comando git diff
+* Comando git commit
