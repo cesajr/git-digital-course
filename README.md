@@ -1,6 +1,6 @@
 # Aprendendo a Usar o Git e Github
 
-## Gravando Mudanças no Repositório
+## Comandos
 * Comando git push
 * Comando git fetch
 * Comando git add
@@ -9,3 +9,4 @@
 * Comando git restore
 * Comando git diff
 * Comando git commit
+* Comando git pull
