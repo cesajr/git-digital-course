@@ -10,3 +10,4 @@
 * Comando git diff
 * Comando git commit
 * Comando git pull
+* Comando git branch //ramificação de branchs
